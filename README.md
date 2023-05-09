@@ -7,6 +7,8 @@ The titles are from 6 years of Youtube Trending data.
 
 It also utilizes models from OpenAI (ChatGPT 3.5 and Davinci 3.0) to generate full titles and descriptions. 
 
+To download, git clone the repository and pip install YTTitleSuggest in the directory. 
+
 # Data: 
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
