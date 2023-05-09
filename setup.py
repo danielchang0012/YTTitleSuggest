@@ -7,5 +7,5 @@ setuptools.setup(
      author_email="d.chang@yale.edu",
      description="A Python package to suggest YouTube Title Keyword and Titles",
      packages=setuptools.find_packages(),
-     install_requires=['nltk', 'gensim', 'spacy', 'tqdm']
+     install_requires=['numpy', 'pandas', 'wordcloud', 'matplotlib', 'openai', 'nltk', 'gensim', 'spacy', 'tqdm']
 )
