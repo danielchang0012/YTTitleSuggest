@@ -1,10 +1,17 @@
 # YTTitleSuggest
-Final Project for ASTR 330 at Yale University
+Final Project for the ASTR 330 Course at Yale University
 
-YTTitleSuggest is a Python package that suggests keywords and titles for YouTube. It trains a Word2Vec model using titles from YouTube Trending data over 6 years
-and suggests keywords related to a given keyword. 
+YTTitleSuggest is a Python package that suggests keywords and titles for YouTube. It cleans title data, removes stop words, and lemmatizes them, then trains a Word2Vec model. The model suggests keywords related to given keywords. 
+
+The titles are from 6 years of Youtube Trending data. 
 
 It also utilizes models from OpenAI (ChatGPT 3.5 and Davinci 3.0) to come up with full titles and descriptions. 
+
+# Data: 
+
+https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
 # References: 
 
