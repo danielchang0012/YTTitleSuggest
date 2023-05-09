@@ -1,0 +1,8 @@
+README.md
+setup.py
+YTTitleSuggest/YTTitleSuggest.py
+YTTitleSuggest.egg-info/PKG-INFO
+YTTitleSuggest.egg-info/SOURCES.txt
+YTTitleSuggest.egg-info/dependency_links.txt
+YTTitleSuggest.egg-info/requires.txt
+YTTitleSuggest.egg-info/top_level.txt
