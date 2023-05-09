@@ -6,6 +6,6 @@ setuptools.setup(
      author="Daniel Chang",
      author_email="d.chang@yale.edu",
      description="A Python package to suggest YouTube Title Keyword and Titles",
-     packages=['YTTitleSuggest'],
+     packages=setuptools.find_packages(),
      install_requires=['nltk', 'gensim', 'spacy', 'tqdm']
 )
